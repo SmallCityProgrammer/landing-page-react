@@ -1,7 +1,7 @@
 import Navbar from "./Navbar"
-import Teamwork from "../assets/Teamworkbro.svg"
+import Teamwork from "../assets/teamwork.svg"
 import './App.css'
-import PlayBtn from '../assets/Play.svg'
+import PlayBtn from '../assets/play.svg'
 import './Responsive.css'
 
 function App() {
