@@ -1,8 +1,8 @@
 import Navbar from "./Navbar"
 import Teamwork from "../assets/teamwork.svg"
-import './App.css'
-import PlayBtn from '../assets/play.svg'
-import './Responsive.css'
+import "./App.css"
+import PlayBtn from "../assets/playbtn.svg"
+import "./Responsive.css"
 
 function App() {
   return (
