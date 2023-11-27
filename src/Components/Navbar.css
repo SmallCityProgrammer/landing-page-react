@@ -1,0 +1,29 @@
+
+.pre-nav {
+  height: 3rem;
+  background-color: #007f56;
+}
+
+.links-ul {
+  margin: 1rem 8rem 0rem 0rem;
+  display: flex;
+  justify-content: end;
+}
+
+.link-li {
+  margin-right: 1rem;
+}
+
+.navegation-link {
+  color:white;
+  text-decoration: none;
+  font-size: 1.3rem;
+}
+
+.navegation-link:hover {
+  background-color: #1b362e;
+  border: solid .5px #000;
+  transition: .6s;
+  padding: .2rem;
+  border-radius: 30rem;
+}

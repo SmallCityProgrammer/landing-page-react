@@ -1,0 +1,60 @@
+
+@media (max-width: 768px) {
+
+  .navegation-link {
+    color:#1b362e
+  }
+
+  .navegation-link:hover {
+    background-color: #fff;
+    border: solid .5px #000;
+    transition: .6s;
+    padding: 0.3rem;
+  }
+
+  .main-image {
+    width: 25rem;
+    transform: translate(-20%);
+    opacity: 0.5;
+  }
+
+  .links-ul {
+    display: flex;
+    justify-content: center;
+    margin-left: 10rem ;
+  }
+
+  .welcome-message {
+    text-align: center;
+    transform: translate(-5%,80%);
+  }
+
+  .main-message {
+    font-size: 1.4rem;
+    color:#1b362e;
+    text-shadow: #fff .2rem .2rem .8rem;
+  }
+
+  .second-message {
+    font-size: 1.4rem;
+    padding: 10px;
+    color:#1b362e;
+    text-shadow: #fff .2rem .2rem .8rem;
+  }
+
+  .links {
+    display: flex;
+    align-items: center;
+    margin: 3rem 0rem 0rem 9rem;
+    
+  }
+
+  .links-text {
+    margin: 10px 0;
+    font-size: 1.3rem;
+    padding: .2rem;
+    color:#1b362e;
+  }
+}
+
+/* Add more media queries for other screen sizes as needed */
